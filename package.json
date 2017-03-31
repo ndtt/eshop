@@ -3,8 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node index",
-    "nodemon": "nodemon index --exec babel-node",
-    "debug": "node debug"
+    "start": "node index"
   }
 }
